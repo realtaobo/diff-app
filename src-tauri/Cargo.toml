@@ -1,11 +1,11 @@
 [package]
-name = "app"
-version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
+name = "diff-app"
+version = "0.1.1"
+description = "A diff app based on tauri"
+authors = ["taobo"]
 license = ""
-repository = ""
-default-run = "app"
+repository = "https://github.com/realtaobo/diff-app/"
+default-run = "diff-app"
 edition = "2021"
 rust-version = "1.60"
 

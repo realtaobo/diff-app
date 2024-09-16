@@ -71,7 +71,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
+      "identifier": "com.taobo.diff-app",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
